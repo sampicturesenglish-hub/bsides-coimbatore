@@ -1,1 +1,1 @@
-# bsides-coimbatore
+# defcon-madurai
